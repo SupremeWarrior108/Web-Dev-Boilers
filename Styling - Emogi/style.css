@@ -1,0 +1,10 @@
+body {
+    font-size: 5em;
+    line-height: 1.5;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    gap: 50px;
+    margin: 0;
+    height: 100vh;
+}
